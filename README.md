@@ -1,11 +1,11 @@
-### Hi there 👋
+### Hi there
 
-<h1 align="center">Hi 👋, I'm Marcio Filadelfo</h1>
-<h3 align="center">Sou um entusiasta em Desenvolvimento Web.</h3>
+<h1 align="center">Olá 👋, Eu sou o Marcio Filadelfo</h1>
+<h3 align="center">Sou estudante autodidata em Desenvolvimento de softwares.</h3>
 
-- 🌱 I’m currently learning **React, Node e REST**
+- 🌱 I’m currently learning **Java, Java e Java**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript and Java**
 
 - 📫 How to reach me **marcio.kabana@gmail.com**
 
