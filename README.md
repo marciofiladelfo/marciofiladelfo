@@ -1,13 +1,12 @@
 ### Hi there
 
 <h1 align="center">Olá 👋, Eu sou o Marcio Filadelfo</h1>
-<h3 align="center">Sou estudante autodidata em Desenvolvimento de softwares.</h3>
+<h3 align="center">Sou estudante autodidata em Desenvolvimento de softwares</h3>
 
-- 🌱 I’m currently learning **Java, Java e Java**
+- 🌱 Eu estou estudando **Java, Spring e Banco de dados**
 
-- 💬 Ask me about **JavaScript and Java**
+- 💬 Me pergunte sobre **JavaScript and Java**
 
-- 📫 How to reach me **marcio.kabana@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +14,7 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5511989262497">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="left" alt="Whatsapp" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://instagram.com/@marcio.kabana">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
